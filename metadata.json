@@ -1,0 +1,8 @@
+{
+  "name": "Application 4 Final Prototype",
+  "description": "enhancements to application 4 app",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
